@@ -1,2 +1,2 @@
-# My_First_Android_Application
-![Slika od izgledot](https://user-images.githubusercontent.com/74197264/159451704-df149fcd-e465-492a-94ed-d19142337683.png)
+# Favorite Twitter Searches
+![Slika od aplikacijata](https://user-images.githubusercontent.com/126883839/222923285-fe632681-8d7f-42f3-9e6a-08720df705f4.png)
